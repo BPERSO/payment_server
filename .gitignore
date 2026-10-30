@@ -2,3 +2,4 @@ node_modules
 node_modules/*
 RAILWAY-DEPLOY.md
 .env
+payment.js-workspace.code-workspace
